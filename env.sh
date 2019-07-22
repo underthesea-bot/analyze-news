@@ -1,0 +1,2 @@
+export GITBOT_USERNAME=
+export GITBOT_PASSWORD=
